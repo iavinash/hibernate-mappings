@@ -1,0 +1,10 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@gmail.com",
+  "mobile": 8989898989,
+  "idCard": {
+    "issueDate": "09/02/2021",
+    "validTillDate": "12/05/2023"
+  }
+}

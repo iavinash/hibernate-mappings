@@ -1,0 +1,18 @@
+{
+  "staffId":1220,
+  "firstName":"Teacher",
+  "lastName":"highland",
+  "salary":120000,
+  "students":[
+    {
+      "enrollmentNo":121210145,
+      "firstName":"Johnny",
+      "lastName":"Deep"
+    },
+    {
+      "enrollmentNo":121210788,
+      "firstName":"Chris",
+      "lastName":"Evans"
+    }
+  ]
+}
