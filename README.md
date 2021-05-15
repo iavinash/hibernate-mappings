@@ -5,4 +5,4 @@ No need to setup external DB, H2 in-memory database that supports JDBC API and R
 
 [H2 Console](http://localhost:8082/h2-console/)
 
-Ceate endpoint exposed and JSON to save data availabe [here](repo/stata).
+Ceate endpoint exposed and JSON to save data availabe [here](/src/main/resources/static/json/).
