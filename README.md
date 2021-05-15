@@ -1,4 +1,4 @@
-# Hbernate-Mappings Examples with Spring Data JPA
+# Hibernate-Mappings Examples with Spring Data JPA
 JPA Entity Relationships(Mappings), ex- @OneToOne, @ManyToOne etc. 
 
 No need to setup external Relational DB, H2 in-memory database used that supports JDBC API and R2DBC access, with a small (2mb) footprint.
